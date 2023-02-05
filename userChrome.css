@@ -36,7 +36,7 @@
    **********************************************************/
 
 /*** Hide all "Send <item> to Device" entries ***/
-/* @import url("./simpleMenuWizard/opt_noSendToDevice.css");
+@import url("./simpleMenuWizard/opt_noSendToDevice.css");
 
 /*** Hide all inactive menu items ***/
 /* #mainPopupSet menuitem[disabled="true"][id][data-l10n-id] { display: none !important; }
