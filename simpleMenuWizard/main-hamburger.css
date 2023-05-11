@@ -40,7 +40,7 @@
 /* #appMenu_historyMenu + toolbarseparator,               /*********** Separator ***********/
 /* #PanelUI-historyMore,                                  /* Manage History                */
 /* #appMenu-downloads-button,                         /* Downloads                     */
-/* #appMenu-passwords-button,                         /* Passwords                     */
+#appMenu-passwords-button,                         /* Passwords                     */
 /* #appMenu-extensions-themes-button,                 /* Add-ons and Themes            */
 /* #appMenu-extensions-themes-button
        + toolbarseparator,                            /*********** Separator ***********/
