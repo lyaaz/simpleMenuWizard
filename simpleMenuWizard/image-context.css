@@ -13,10 +13,10 @@
 /* #context-saveimage,               /* Save Image As…                  */
 /* #context-copyimage-contents,      /* Copy Image                      */
 /* #context-copyimage,               /* Copy Image Link                 */
-/* #context-sendimage,               /* Email Image…                    */
-/* #context-sep-setbackground,       /************ Separator ************/
-/* #context-setDesktopBackground,    /* Set As Desktop Background...    */
-/* #context-sep-sharing,             /************ Separator ************/
+#context-sendimage,               /* Email Image…                    */
+#context-sep-setbackground,       /************ Separator ************/
+#context-setDesktopBackground,    /* Set As Desktop Background...    */
+#context-sep-sharing,             /************ Separator ************/
 /* #context-inspect,                 /* Inspect (Q)                     */
 
 #leave_this_dummy_here
